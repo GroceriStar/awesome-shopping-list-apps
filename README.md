@@ -171,3 +171,13 @@ read about Supply Chain Management
 
 ---
 
+http://www.grocerylists.org/wp-content/uploads/2011/11/wife-slider.jpg
+http://www.grocerylists.org/wp-content/uploads/2013/01/grocerylistsDOTorg_Vegetarian_v1_2.pdf
+#407
+
+https://medium.com/@niall_ogorman/meet-marco-sandro-dominic-co-founders-at-swiss-grocery-list-startup-bring-labs-a0b4987c41b1
+
+`Update: Since I wrote this post two years ago, I’ve changed up my system. The big change is adding an Amazon Echo to our kitchen/living room. I’ve then linked up the built-in Echo shopping list feature to my Trello board with IFTTT. Sure, I don’t get the neat feature of having all the items ordered and grouped according to where they are in the store, but it’s just so easy to look in the fridge/freezer/cabinet and shout out the things that are needed. (I just wish there was a verbal shortcut for “Alexa, add [thing] to my shopping list.” Sure, I can say “Alexa, buy more [thing].” But then I might accidentally order something from Amazon.)`
+
+https://medium.com/yalantis-mobile/shopping-list-app-development-everything-you-need-to-know-about-grocery-apps-bc44c7d3fa6e?source=search_post
+
