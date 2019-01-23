@@ -3,12 +3,17 @@
 #### alternatives\inspiration?
 
 https://www.bestproducts.com/eats/food/g1505/grocery-shopping-list-apps
+
 https://www.anylist.com/
+
 https://ru.todoist.com/
 
 GroceriStar/groceristar#413
+
 GroceriStar/groceristar#411
+
 GroceriStar/groceristar#425
+
 GroceriStar/groceristar#409
 
 ---
@@ -72,7 +77,9 @@ Additional Features In Grocery Delivery App:
 ---
 
 https://www.bestproducts.com/eats/food/g1505/grocery-shopping-list-apps
+
 https://www.anylist.com/
+
 https://ru.todoist.com/
 
 №№№№ insights GL app
@@ -94,49 +101,49 @@ https://ru.todoist.com/
 
 ---
 
-Splash screen with brand logo
-Login / Register with Email or Facebook
-Easy swipe navigation with brand logo
-SMS / Call mobile number authentication
-3D touch and touch ID integration
+- Splash screen with brand logo
+- Login / Register with Email or Facebook
+- Easy swipe navigation with brand logo
+- SMS / Call mobile number authentication
+- 3D touch and touch ID integration
 
 ---
-Products navigation from categories & subcategories
-Shortcut to Repeat last order
-Product search
-Product screen popup with description
+- Products navigation from categories & subcategories
+- Shortcut to Repeat last order
+- Product search
+- Product screen popup with description
 
 ---
 
-Apple pay
-Paypal
-BrainTree payment gateway
-Android Pay
+- Apple pay
+- Paypal
+- BrainTree payment gateway
+- Android Pay
 
 ---
-My order
-Favourite products
-My cart
-Change account details
-Promocodes/Referals
+- My order
+- Favourite products
+- My cart
+- Change account details
+- Promocodes/Referals
 
 
 ```
 <ul class="super-admin-music">
-                                        <li>Send Order Request To Single/Multiple Shoppers</li>
-                                        <li>Add Items In Sent Order</li>
-                                        <li>Add Address Details</li>
-                                        <li>View Order Receipt</li>
-                                        <li>Payment Gateway: Stripe</li>
-                                        <li>Communicate With Shoppers Through Chat</li>
-                                        <li>Track Shopper's Navigation</li>
-                                        <li>Accept/Decline Friend Requests</li>
-                                        <li>Set Notification On/Off</li>
-                                        <li>Reviews And Ratings For Shoppers</li>
-                                        <li>View Accepted, Canceled, Completed, Pending And In-Progress Orders</li>
-                                        <li>View Recent Chat</li>
+    <li>Send Order Request To Single/Multiple Shoppers</li>
+    <li>Add Items In Sent Order</li>
+    <li>Add Address Details</li>
+    <li>View Order Receipt</li>
+    <li>Payment Gateway: Stripe</li>
+    <li>Communicate With Shoppers Through Chat</li>
+    <li>Track Shopper's Navigation</li>
+    <li>Accept/Decline Friend Requests</li>
+    <li>Set Notification On/Off</li>
+    <li>Reviews And Ratings For Shoppers</li>
+    <li>View Accepted, Canceled, Completed, Pending And In-Progress Orders</li>
+    <li>View Recent Chat</li>
 
-                                    </ul>
+</ul>
 ```
 
 ---
@@ -150,21 +157,23 @@ https://i0.wp.com/fugenx.com/wp-content/uploads/2017/04/BigBasket-App-features-a
 
 ---
 https://www.bacancytechnology.com/blog/cost-features-to-develop-grocery-mobile-app
+
 https://www.octalsoftware.com/blog/wp-content/uploads/2017/10/growth-rate.png
 
 ---
-Push Notifications – Twilio, Push.io
-SMS, Voice and Phone Verification -Nexmo, Twilio
-Payments – Braintree & PayPal , Stripe, EWallets
-Database – MongoDB, Hbase, Cassandra, Postgress, Mail Chimp Integration
-Cloud Environment – AWS, Google, Azure
-Realtime Analytics – Hadoop, Spark, BigData, Apache Flink, Cisco, IBM
+- Push Notifications – Twilio, Push.io
+- SMS, Voice and Phone Verification -Nexmo, Twilio
+- Payments – Braintree & PayPal , Stripe, EWallets
+- Database – MongoDB, Hbase, Cassandra, Postgress, Mail Chimp Integration
+- Cloud Environment – AWS, Google, Azure
+- Realtime Analytics – Hadoop, Spark, BigData, Apache Flink, Cisco, IBM
 
 https://mobisoftinfotech.com/products/grocery-app-development
 
 ---
 
 https://yalantis.com/blog/how-much-does-it-cost-to-create-an-on-demand-delivery-app/
+
 http://images.yalantis.com/uploads/ckeditor/pictures/1836/content_content_uber_for_x-09_tsbKeB7.png
 
 read about Supply Chain Management
