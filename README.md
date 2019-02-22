@@ -2,11 +2,11 @@
 
 #### alternatives\inspiration?
 
-https://www.bestproducts.com/eats/food/g1505/grocery-shopping-list-apps
+- https://www.bestproducts.com/eats/food/g1505/grocery-shopping-list-apps
 
-https://www.anylist.com/
+- https://www.anylist.com/
 
-https://ru.todoist.com/
+- https://ru.todoist.com/
 
 GroceriStar/groceristar#413
 
@@ -76,9 +76,9 @@ Additional Features In Grocery Delivery App:
 
 ---
 
-https://www.bestproducts.com/eats/food/g1505/grocery-shopping-list-apps
+- https://www.bestproducts.com/eats/food/g1505/grocery-shopping-list-apps
 
-https://www.anylist.com/
+- https://www.anylist.com/
 
 https://ru.todoist.com/
 
@@ -156,9 +156,9 @@ Secure payment options, including debit and card payments, cash on delivery and 
 https://i0.wp.com/fugenx.com/wp-content/uploads/2017/04/BigBasket-App-features-and-function-1.png
 
 ---
-https://www.bacancytechnology.com/blog/cost-features-to-develop-grocery-mobile-app
+- https://www.bacancytechnology.com/blog/cost-features-to-develop-grocery-mobile-app
 
-https://www.octalsoftware.com/blog/wp-content/uploads/2017/10/growth-rate.png
+- https://www.octalsoftware.com/blog/wp-content/uploads/2017/10/growth-rate.png
 
 ---
 - Push Notifications – Twilio, Push.io
@@ -168,13 +168,13 @@ https://www.octalsoftware.com/blog/wp-content/uploads/2017/10/growth-rate.png
 - Cloud Environment – AWS, Google, Azure
 - Realtime Analytics – Hadoop, Spark, BigData, Apache Flink, Cisco, IBM
 
-https://mobisoftinfotech.com/products/grocery-app-development
+- https://mobisoftinfotech.com/products/grocery-app-development
 
 ---
 
-https://yalantis.com/blog/how-much-does-it-cost-to-create-an-on-demand-delivery-app/
+- https://yalantis.com/blog/how-much-does-it-cost-to-create-an-on-demand-delivery-app/
 
-http://images.yalantis.com/uploads/ckeditor/pictures/1836/content_content_uber_for_x-09_tsbKeB7.png
+- http://images.yalantis.com/uploads/ckeditor/pictures/1836/content_content_uber_for_x-09_tsbKeB7.png
 
 read about Supply Chain Management
 
@@ -184,9 +184,9 @@ http://www.grocerylists.org/wp-content/uploads/2011/11/wife-slider.jpg
 http://www.grocerylists.org/wp-content/uploads/2013/01/grocerylistsDOTorg_Vegetarian_v1_2.pdf
 #407
 
-https://medium.com/@niall_ogorman/meet-marco-sandro-dominic-co-founders-at-swiss-grocery-list-startup-bring-labs-a0b4987c41b1
+- https://medium.com/@niall_ogorman/meet-marco-sandro-dominic-co-founders-at-swiss-grocery-list-startup-bring-labs-a0b4987c41b1
 
 `Update: Since I wrote this post two years ago, I’ve changed up my system. The big change is adding an Amazon Echo to our kitchen/living room. I’ve then linked up the built-in Echo shopping list feature to my Trello board with IFTTT. Sure, I don’t get the neat feature of having all the items ordered and grouped according to where they are in the store, but it’s just so easy to look in the fridge/freezer/cabinet and shout out the things that are needed. (I just wish there was a verbal shortcut for “Alexa, add [thing] to my shopping list.” Sure, I can say “Alexa, buy more [thing].” But then I might accidentally order something from Amazon.)`
 
-https://medium.com/yalantis-mobile/shopping-list-app-development-everything-you-need-to-know-about-grocery-apps-bc44c7d3fa6e?source=search_post
+-  https://medium.com/yalantis-mobile/shopping-list-app-development-everything-you-need-to-know-about-grocery-apps-bc44c7d3fa6e?source=search_post
 
