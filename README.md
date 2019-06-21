@@ -1,5 +1,9 @@
 # awesome-shopping-list-apps
 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-shopping-list-apps) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-shopping-list-apps)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
+
 #### alternatives\inspiration?
 
 - https://www.bestproducts.com/eats/food/g1505/grocery-shopping-list-apps
